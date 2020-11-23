@@ -1,4 +1,4 @@
 # Jm-Python
 My Path to Learning Python
 
-I love :coffee::pizza.
+I love :coffee: :pizza:,and :dancer:.
